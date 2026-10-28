@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="IMG-20261028-WA6622.jpg" width="250" style="border-radius:50%" />
+</p>
+
 # 🛡️ RAKSHA - Women Safety App
+
 
 ### Founded by Angoth Rameshwari
 ### MNR College of Nursing, Sangareddy, Telangana
